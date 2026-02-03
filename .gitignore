@@ -484,3 +484,7 @@ $RECYCLE.BIN/
 eventra.db
 API/appsettings.json
 API/eventra.db
+API/bin
+API/obj
+API/eventra.db-shm
+API/eventra.db-wal
